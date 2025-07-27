@@ -1,2 +1,2 @@
-Data Exploration and Visualization lab
+Data Exploration lab
 experiment 1
